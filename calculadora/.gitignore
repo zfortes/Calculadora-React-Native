@@ -24,7 +24,6 @@ project.xcworkspace
 
 # Android/IntelliJ
 #
-release/
 keystores/
 build/
 .idea
