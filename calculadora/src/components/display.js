@@ -15,7 +15,7 @@ const styles = StyleSheet.create({
         alignItems: 'flex-end',
     },
     displayValue: {
-        fontSize: 60,
+        fontSize: 40,
         color: '#fff'
     }
 })
